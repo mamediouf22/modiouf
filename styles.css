@@ -1,0 +1,105 @@
+
+nav{
+    background-color: rgb(213, 250, 246);
+    border-bottom: 3px solid #000; 
+    
+    
+    
+}
+
+header{
+    background-color: rgb(213, 250, 246);
+width:auto;
+
+
+
+}
+
+#ll{
+    height: 250px;
+    width: 250px;
+    background-color:#457B9D;
+    border-radius: 10%;
+    margin-right: 50%;
+}
+.img{
+    height: 250px;
+   
+}
+
+.btn{
+    background-color: #457B9D;
+    color: rgb(213, 250, 246);
+}
+#btn{
+    background-color: rgb(213, 250, 246) ;
+    color: #457B9D ;
+    
+}
+#mg{
+    color: #457B9D ;
+}
+.r{
+    gap: 10px;
+    
+}
+.p1{
+margin-bottom: 10%;
+margin-left: 5%;
+
+}
+.card{
+    
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-top: 10%;
+    width: 100%;
+    justify-content: center; 
+    margin-left: 10px;
+   
+    
+    
+  }
+  .prot{
+    gap: 30px;
+    margin-left: 20px;
+    
+}
+
+.Contact{
+    
+   margin-left: 5%;
+    background-color: rgb(213, 250, 246);
+
+}
+
+footer{
+    background-color: rgb(213, 250, 246);
+    height: 250px;
+    
+}
+
+.custom-bg-color {
+    background-color: rgb(213, 250, 246);
+}
+.p{
+    color: rgba(69, 123, 157, 1);
+
+}
+h2{
+    color: rgba(69, 123, 157, 1);
+    
+}
+.project {
+    
+    justify-content: center; 
+  }
+  .section{
+    background-color: blue;
+  }
+  
+
+
+
+
+
+
